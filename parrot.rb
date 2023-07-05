@@ -3,10 +3,8 @@ def parrot(string = "Squawk!")
     string
   end
   
-  # Example usage:
-  parrot # Output: Squawk!
-  # => "Squawk!"
+
+  parrot 
+ 
   
-  parrot("Hello, I'm a parrot!") # Output: Hello, I'm a parrot!
-  # => "Hello, I'm a parrot!"
-  
+  parrot("Hello, I'm a parrot!") 
